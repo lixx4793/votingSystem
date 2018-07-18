@@ -1,0 +1,10 @@
+ ======= Election Information ======= 
+ Date: 22/04/2018 13:34:46
+ Algorithm used: Plurality
+ Candidates : 6
+ Seats to Fill: 2
+ Voters Participated: 7155
+
+
+ ======= Election Result ======= 
+ Winner(s) of Election: B F 

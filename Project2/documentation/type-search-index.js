@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Algorithm"},{"p":"<Unnamed>","l":"Candidate"},{"p":"<Unnamed>","l":"CandidateComparator"},{"p":"<Unnamed>","l":"Database"},{"p":"<Unnamed>","l":"DroopQuota"},{"p":"<Unnamed>","l":"Plurality"},{"p":"<Unnamed>","l":"Vote"},{"p":"<Unnamed>","l":"VoteComparator"},{"p":"<Unnamed>","l":"VotingSystem"}]
